@@ -1,3 +1,5 @@
+Augmented Dynamic Multi-layer Contrastive (ADMC) framework
+====
 Train with MPNet
 -------
 Go to repalce the content of present /configure/config.py by /configure/configMPNet.py<br>
