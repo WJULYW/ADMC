@@ -1,5 +1,8 @@
-Augmented Dynamic Multi-layer Contrastive (ADMC) framework
+Preciser comparison: Augmented multi-layer dynamic contrastive strategy for text2text question classification
 ====
+This is the official code of the paper "Preciser comparison: Augmented multi-layer dynamic contrastive strategy for text2text question classification
+"
+-------
 Train with MPNet
 -------
 Go to repalce the content of present /configure/config.py by /configure/configMPNet.py<br>
